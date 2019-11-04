@@ -1,0 +1,22 @@
+---
+title: "Simple Linear Regression"
+author: "Paige Parry"
+date: "11/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+R-based swirl course on simple linear regression associated with:
+Copenhaver-Parry, P.E. 2019. Taking temperature with leaves: a semester-long structured inquiry research investigation for undergraduate plant biology. The American Biology Teacher. In Press.
+
+## Installation
+
+```r
+swirl::install_course('Regression')
+```
+
+
